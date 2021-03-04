@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Redfox/Redfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width='300px'>
+</p>
 
-Here are some ideas to get you started:
+# Hi there
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Vitor Pereira, I'm Brazilian software engineer, currently living in São Paulo.
+
+On my free time I work on [Watchfy](https://watchfy.com/), wich is basically a platform to watch videos together with friends and other peoples and study hacking and security 👨🏼‍💻
+
+# Detailed informations
+* **Name**: Vitor Pereira
+* **Living in**: São Paulo, Brazil
+* **Stack**: Javascript - Typescript - SQL - NoSQL
+* **University**: Faculdade Impacta
