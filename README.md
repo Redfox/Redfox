@@ -7,7 +7,7 @@
 
 My name is Vitor Pereira, I'm a Brazilian software engineer, currently living in São Paulo.
 
-In my free time, I work on [Watchfy](https://watchfy.com/), which is a platform to watch videos together with friends and other peoples, and study hacking and security 👨🏼‍💻
+In my free time, I study hacking and security 👨🏼‍💻 and I work on [Watchfy](https://watchfy.com/), which is a platform to watch videos together with friends and other peoples
 
 # Detailed informations
 * **Name**: Vitor Pereira
